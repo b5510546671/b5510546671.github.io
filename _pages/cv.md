@@ -35,6 +35,7 @@ Work Experience
 Awards
 ======
 * Ph.D. Full Scholarship
+* Kasetsart University's Graduate School Academic Outstanding Award
 * M.Eng. Full Scholarship
 * Kasetsart University Academic Distinction Awards
 * Faculty of Engineering Academic Distinction Awards
