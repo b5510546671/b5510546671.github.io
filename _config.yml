@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Supavit Kongwudhikunakorn"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Ph.D. student at School of Information Science and Technology (IST), VISTEC."
   location         : "Thailand"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/supavit-kongwudh/"
+  linkedin         : "supavit-kongwudh"
   orcid            : 
   pinterest        :
   soundcloud       :
