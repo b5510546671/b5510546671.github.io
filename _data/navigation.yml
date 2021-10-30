@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.co.th/citations?hl=en&user=i4dWU4cAAAAJ&view_op=list_works&sortby=pubdate
     
   - title: "CV"
     url: /cv/

@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 Supavit Kongwudhikunakorn is from Bangkok, Thailand. Currently, he is a Ph.D. student at the School of Information Science and Technology, VISTEC, Rayong, Thailand, and a member of BRAIN lab. His research focuses on classifying cognitively impaired patients (dementia) from the normal people using brain signal (EEG).
+
+He can be reached at {first_name}[dot]{full_last_name}[at]gmail[dot]com
