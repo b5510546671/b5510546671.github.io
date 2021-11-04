@@ -17,7 +17,7 @@ Education
 * M.Eng. in Computer Engineering, Kasetsart University, 2018
   * Thesis: Using Distributed Word Representation and Document Distance for Short Text Document Clustering.
   * Advisor: Assoc. Prof. Kitsana Waiyamai, Ph.D.
-* B.Eng. (1st class) in Software and Knowledge Engineering, Kasetsart University, 2016
+* B.Eng. (1st Class Honors) in Software and Knowledge Engineering, Kasetsart University, 2016
 
 Work Experience
 ======
