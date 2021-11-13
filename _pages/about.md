@@ -26,6 +26,6 @@ To contact Supavit, he can be reached at supavit [dot] kongwudhikunakorn [at] gm
     alt="วงแหวนเว็บ"
     width="32"
     height="32"
-    src="https://webring.wonderful.software/webring.white.svg"
+    src="https://webring.wonderful.software/webring.black.svg"
   />
 </a>
