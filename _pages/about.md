@@ -19,3 +19,13 @@ He is a member of Interfaces Team, part of <a href="https://brain.vistec.ac.th/"
 His curent research mainly focuses on screening patients with risked of dementia in aging people using brain signal (EEG) in collaboration with Siriraj Medical Research Center.
 
 To contact Supavit, he can be reached at supavit [dot] kongwudhikunakorn [at] gmail [dot] com
+
+
+<a href="https://webring.wonderful.software#supavitk.com" title="วงแหวนเว็บ">
+  <img
+    alt="วงแหวนเว็บ"
+    width="32"
+    height="32"
+    src="https://webring.wonderful.software/webring.white.svg"
+  />
+</a>
