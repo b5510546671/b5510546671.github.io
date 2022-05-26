@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Supavit's full CV can be found [Here](https://docs.google.com/document/d/1UMsDWZIX7tZjkg53h2LtiFXT4MEBAsISFN-wkVF811Q/edit?usp=sharing)
+
 Education
 ======
 * Ph.D (candidate) in Information Science and Technology, Vidyasirimedhi Institute of Science and Technology, 2019-Current
@@ -17,7 +19,7 @@ Education
 * M.Eng. in Computer Engineering, Kasetsart University, 2018
   * Thesis: Using Distributed Word Representation and Document Distance for Short Text Document Clustering.
   * Advisor: Assoc. Prof. Kitsana Waiyamai, Ph.D.
-* B.Eng. (1st Class Honors) in Software and Knowledge Engineering, Kasetsart University, 2016
+* B.Eng. (1st Class Honors) in Software and Knowledge Engineering (International Program), Kasetsart University, 2016
 
 Work Experience
 ======
