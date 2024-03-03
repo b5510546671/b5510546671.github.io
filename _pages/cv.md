@@ -9,35 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Supavit's full CV can be found [Here](https://docs.google.com/document/d/1UMsDWZIX7tZjkg53h2LtiFXT4MEBAsISFN-wkVF811Q/edit?usp=sharing)
-
 Education
 ======
-* Ph.D (candidate) in Information Science and Technology, Vidyasirimedhi Institute of Science and Technology, 2019-Current
-  * Thesis: Mild cognitive impairment (MCI) screening tool from Electroencephalography (EEG) in aged individuals.
-  * Advisor: Asst. Prof. Theerawit Wilaiprasitporn, Ph.D.
-* M.Eng. in Computer Engineering, Kasetsart University, 2018
-  * Thesis: Using Distributed Word Representation and Document Distance for Short Text Document Clustering.
-  * Advisor: Assoc. Prof. Kitsana Waiyamai, Ph.D.
-* B.Eng. (1st Class Honors) in Software and Knowledge Engineering (International Program), Kasetsart University, 2016
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
-Work Experience
+Work experience
 ======
-* March-August 2019: Research Assistant (Part-Time)
-  * BRAIN Lab, School of Information Science and Technology, VISTEC
-  * Assisted in writing a survey paper on Consumer Grade EEG as a research tool.
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
-* August 2016-May 2018: Teacher Assistant
-  * Department of Computer Engineering, Kasetsart University
-  * Data Mining (Undergraduate's & Graduate's Courses)
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
-* June-December 2015: Front End Developer (Internship)
-  * Orion Health (Bangkok)
-
-Awards
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
+Skills
 ======
-* Ph.D. Full Scholarship
-* Kasetsart University's Graduate School Academic Outstanding Award
-* M.Eng. Full Scholarship
-* Kasetsart University Academic Distinction Awards
-* Faculty of Engineering Academic Distinction Awards
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
