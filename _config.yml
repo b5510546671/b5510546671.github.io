@@ -26,7 +26,7 @@ author:
   pronouns         : "He/him" # example: "she/her"  
   bio              : "Ph.D. candidate at School of Information Science and Technology (IST), VISTEC."
   location         : "Rayong, THAILAND"
-  employer         : "Vidyasirimedhi Institute of Science and Technology (VISTEC)"
+  employer         : #
   uri              : "http://www.supavitk.com" # URL
   email            : "supavit.kongwudhikunakorn@gmail.com" 
 
