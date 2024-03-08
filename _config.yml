@@ -12,7 +12,7 @@ title                    : ""Supavit Kongwudhikunakorn""
 title_separator          : "-"
 name                     : &name "Supavit Kongwudhikunakorn ศุภวิชญ์ คงวุฒิคุณากร"
 description              : &description "About Supavit Kongwudhikunakorn เกี่ยวกับ ศุภวิชญ์ คงวุฒิคุณากร"
-url                      : https://www.supavitk.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.supavitk.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "b5510546671.github.io"
 
