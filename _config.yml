@@ -8,46 +8,46 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Supavit Kongwudhikunakorn"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Supavit Kongwudhikunakorn ศุภวิชญ์ คงวุฒิคุณากร"
-description              : &description "About Supavit Kongwudhikunakorn เกี่ยวกับ ศุภวิชญ์ คงวุฒิคุณากร"
-url                      : https://b5510546671.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "b5510546671/b5510546671.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-2.jpg"
-  name             : "Supavit Kongwudhikunakorn"
-  pronouns         : "He/him"
-  bio              : "Ph.D. candidate at School of Information Science and Technology (IST), VISTEC."
-  location         : "Rayong, TH"
-  employer         : "Vidyasirimedhi Institute of Science and Technology (VISTEC)"
-  uri              : "http://www.supavitk.com"
-  email            : "supavit.kongwudhikunakorn@gmail.com" 
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.co.th/citations?user=i4dWU4cAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-0834-5209"
-  pubmed           : 
-  researchgate     : "https://www.researchgate.net/profile/Supavit-Kongwudhikunakorn"
+  orcid            : "http://orcid.org/yourorcidurl"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "b5510546671"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "supavit-kongwudh"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Replace this with your X / Twitter handle
+  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
