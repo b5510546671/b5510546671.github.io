@@ -16,6 +16,8 @@ Supavit Kongwudhikunakorn (ศุภวิชญ์ คงวุฒิคุณ�
 
 He is a member of Interfaces Team, part of <a href="https://brain.vistec.ac.th/" style="text-decoration:none;color:#000000">BRAIN lab</a>. 
 
+Now, he is a visiting researcher at <a href="http://www.bme.mech.e.titech.ac.jp/index.php" style="text-decoration:none;color:#000000">Yagi's laboratory, Institute of Science Tokyo (formerly, Tokyo Institute of Technology)</a>.
+
 His curent research mainly focuses on screening patients with risked of dementia in aging people using brain signal (EEG) in collaboration with Siriraj Medical Research Center.
 
 To contact Supavit, he can be reached at supavit [dot] kongwudhikunakorn [at] gmail [dot] com
